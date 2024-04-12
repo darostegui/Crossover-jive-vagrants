@@ -1,1 +1,1 @@
-Using Jive Software with Vagrant
+Using Jive Software with Vagrant.
